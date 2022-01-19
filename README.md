@@ -4,5 +4,5 @@
 - 💻 I’m learning GKE for work and Elixir on the side.
 - 🐱‍🏍 I’m looking to collaborate on learning and open source iniciatives.
 - 💬 Ask me about coffee methods.
-- 📫 How to reach me: go/meetrodrigo, you can find me on Slack or just drop an email to rodrigo.amaya@telus.com
+- 📫 How to reach me: go/meetrodrigo, you can find me on Slack or just drop an email to rodrigo.amaya@telusinternational.com
 - ⚡ Fun fact: HODL.
