@@ -6,5 +6,6 @@ Here's a little about me:
 - Main languages: 🌽 Javascript, 🧙‍♂️ Java & 🐍 Python.
 - 💻 GraphQL enthusiast, learning: Lua 🌛.
 - 💬 Ask me about coffee methods!.
+- 🎶 Best current song (June 19th 2023): [Rezo por Vos](https://www.youtube.com/watch?v=kHPja5eLZdU).
 - 📫 How to reach me? ping me in Slack, write an email, meet me @ go/meetrodrigo
 - [🦆🦆🦆](https://duckduckgo.com/spread).
