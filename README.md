@@ -2,9 +2,9 @@
 
 Here's a little about me:
 - Main languages: 🌽 Javascript, 🧙‍♂️ Java & 🐍 Python.
-- 🚀 Working with Telus Health.
-- 🐱‍🏍 Certified Scrum Master, SAFe 5 DevOps Practitioner, JSNAD Certified.
+- 🚀 Working @ Telus Health.
+- 🐱‍🏍 SAFe® SDP | PSM™ | JSNAD | Pega CSSA7 | MBA
 - 💬 Ask me about coffee methods!.
-- 🎶 Favorite song (June 19th 2023): [Rezo por Vos](https://www.youtube.com/watch?v=kHPja5eLZdU).
+- 🎶 Favorite song (Feb 2024): [El Reloj (1977)](https://www.youtube.com/watch?v=OfG-QIlX7Vk).
 - 📫 How to reach me? ping me in Slack, write an email, meet me @ go/meetrodrigo
 - [🦆🦆🦆](https://duckduckgo.com/spread).
