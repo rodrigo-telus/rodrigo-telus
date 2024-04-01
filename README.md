@@ -8,6 +8,6 @@
 🦸‍♂️ Core languages: 🌽 Javascript, 🧙‍♂️ Java & 🐍 Python  
 
 ## Else
-💬 Ask me about coffee methods!
+💬 Ask me about coffee methods!  
 📫 How to reach me? ping me in Slack, write an email, meet me @ [go/meetrodrigo](http://go/meetrodrigo)  
 [🦆🦆🦆](https://duckduckgo.com/spread).  
