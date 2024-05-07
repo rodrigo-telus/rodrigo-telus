@@ -1,6 +1,6 @@
 # Rodrigo Amaya, Systems Engineer, MBA
 
-🗺 Currently located in sunny El Salvador.  
+🗺 Currently relocating.  
 ⚒ Working @ [Telus Health](https://github.com/orgs/telus-health/teams/telus-health-mycare).  
 
 ## Skills
