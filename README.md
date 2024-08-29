@@ -1,6 +1,6 @@
 # Rodrigo Amaya, Systems Engineer, MBA
 
-🇨🇦 / 🇸🇻 Located in Canada, but 'Se habla español'.  
+🇨🇦 / 🇸🇻 Located in Canada / 'Se habla español'.  
 ⚒ Working @ [Telus Health/ MyCare](https://github.com/orgs/telus-health/teams/telus-health-mycare).  
 
 ## Skills
