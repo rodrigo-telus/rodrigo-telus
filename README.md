@@ -4,7 +4,7 @@
 
 ## Work @ Telus - Telus DS - Telus Int.
 🇨🇦 / 🇸🇻 Located in Canada / 'Se habla español'.  
-⚒ Currently Working @ [Telus Health/ MyCare](https://github.com/orgs/telus-health/teams/telus-health-mycare).  
+⚒ Currently Working @ [Telus Health/ MyCare](https://github.com/orgs/telus-health/teams/telus-health-mycare), with [Jaguar Team](https://github.com/orgs/telus-health/teams/th-mycare-jaguar) 🐅.  
 Worked with IOF Dev Team ([Main BFF architecture design and implementation](https://github.com/telus/iof-frontdoor-bff/graphs/contributors))  
 Worked with SOVC/HRT tool (Java/Angular heavy SPA for Agents, code might be lost in the TFS migration)  
 
