@@ -13,15 +13,18 @@
 * **IOF Dev Team (Late 2020 – Mid 2024):** Served as Scrum Master/Sr. Node Developer. [Main BFF architecture design and implementation](https://github.com/telus/iof-frontdoor-bff/graphs/contributors) (modular monolith with redis db), implemented Apollo GraphQL, and established CI/CD and quality gates.
 * **Agent Offer Manager / HRT / SOVC (2016 – Late 2020):** Sr. Java Dev: Managed a stateless SPA with SSR using Java Enterprise and Spring MVC across 11 nodes. Did some prod support and manage to single handedly do 80% code coverage in the tool.
 
+### 🏢 Industry Experience Before TELUS
+Before joining TELUS (2008 - 2016), I developed IT solutions across a wide range of sectors, including **Banking (Citibank - SV, GT, CR, PA)**, **Automobile (Nissan USA)**, **Retail (Almacenes SIMAN Regional)**, and **Digital Advertising**. My experience spans diverse teams in Central America, USA and Canada, focusing on Business Process Management (BPM/Pega), enterprise ERP automation, and full-stack development for financial platforms and creative agencies.
+
 ---
 
 ### 🚀 Skills & Certifications
 * **🥷 Certifications:** SAFe® SDP | PSM™ | JSNAD | Pega CSSA7
-* **🦸‍♂️ Core Languages:** 🌽 JavaScript/Node.js, 🧙‍♂️ Java 7+, and 🐍 Python 3.x
-* **🗄️ Databases:** Redis, MySQL, DB2, Sybase (yes!) and Sqlite
+* **🦸‍♂️ Core Languages:** 🌽 JavaScript/Node.js, 🧙‍♂️ Java 7+, 🐍 Python 3.x and Go.
+* **🗄️ Databases:** Redis, MySQL, DB2, Sybase (💀) and Sqlite
 
 ---
 
 ### ☕ Other
 * 💬 **Ask me about:** Coffee methods! ☕️
-* 📫 **How to reach me?** Ping me in Slack, write an email, or meet me @ **[go/meetrodrigo](http://go/meetrodrigo) **
+* 📫 **How to reach me?** Ping me in Slack, write an email, or meet me @ **[go/meetrodrigo](http://go/meetrodrigo)**
