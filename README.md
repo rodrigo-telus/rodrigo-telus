@@ -1,5 +1,5 @@
 # Rodrigo Amaya, Systems Engineer, MBA
-*"One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man." -- Elbert Hubbard*
+* Human Agency > Artificial Intelligence *
 
 ### 📍 Location & Current Role
 * **Location:** Canada, BC, *Splendor sine occasu*
