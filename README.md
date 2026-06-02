@@ -4,8 +4,7 @@ _Human Agency > Artificial Intelligence_
 ### 📍 Location & Current Role
 * **Location:** Canada, BC, *Splendor sine occasu*
 * **Current Role:** L4 Staff Engineer @ **[Telus Health/ MyCare](https://github.com/orgs/telus-health/teams/telus-health-mycare)**
-* **Focus:** I’m on a mission to: design solutions that sustain health services, unblock technical barriers, empower team ownership and leverage AI for productivity. **[Jaguar Team](https://github.com/orgs/telus-health/teams/th-mycare-jaguar)** 🐅
-
+* **Focus:** I’m on a mission to: design solutions that sustain health services, unblock technical barriers, empower team ownership and leverage AI for productivity.
 ---
 
 ### 🛠 Professional Journey @ TELUS (10th Year)
