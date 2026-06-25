@@ -20,10 +20,11 @@ Before joining TELUS (2008 - 2016), I developed IT solutions across a wide range
 ### 🚀 Skills & Certifications
 * **🥷 Certifications:** SAFe® SDP | PSM™ | JSNAD | Pega CSSA7
 * **🦸‍♂️ Core Languages:** 🌽 JavaScript/Node.js, 🧙‍♂️ Java 7+, 🐍 Python 3.x and Go. 
-* **🗄️ Databases:** Redis, MySQL, DB2, Sybase (💀), and SQLite.
+* **🗄️ Databases:** MySQL, DB2, Sybase (💀), and SQLite.
+* **🤖 AI:** Preferred models: Claude, Gemini & Deepseek 4, with pi.dev and extensive unit testing.
 
 ---
 
 ### ☕ Other
 * 💬 **Ask me about:** Coffee methods! ☕️
-* 📫 **How to reach me?** Ping me in Slack, write an email, or meet me @ **[go/meetrodrigo](http://go/meetrodrigo)**
+* 📫 **How to reach me?** Ping me in Slack or write an email.
