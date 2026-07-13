@@ -7,13 +7,13 @@ _Human Agency > Artificial Intelligence_
 * **Focus:** I’m on a mission to: design solutions that sustain health services, unblock technical barriers, empower team ownership and leverage AI for productivity.
 ---
 
-### 🛠 Professional Journey @ TELUS (10th Year)
+### 🛠 Professional Journey @ TELUS (Since 2016!)
 * **TELUS Health (Mid 2024 – Present):** Staff Engineer leading vendor transitions, services/libraries migration in multi-language microservice environments, and deployment architecture for GraphQL Supergraphs and Auth0.
 * **IOF Dev Team (Late 2020 – Mid 2024):** Served as Scrum Master and Senior Developer. Architected the main BFF (modular monolith with Redis), implemented Apollo GraphQL, and established enterprise-grade CI/CD and quality gates.
 * **Agent Offer Manager / HRT / SOVC (2016 – Late 2020):** Senior Java Developer. Managed a stateless SPA with SSR using Java Enterprise and Spring MVC across 11 nodes, achieving 80% code coverage and providing critical production support.
 
 ### 🏢 Industry Experience Before TELUS
-Before joining TELUS (2008 - 2016), I developed IT solutions across a wide range of sectors, including **Banking (Citibank - Regional)**, **Automobile (Nissan USA)**, **Retail (Almacenes SIMAN)**, and **Digital Advertising (Hotels, online newspapers, online marketing, facebook ads and apps, mobile apps and digital installations)**. 
+Before joining TELUS (2016), I started my carreer developing IT solutions across a wide range of sectors, including **Banking (Citibank - Regional)**, **Automobile (Nissan USA)**, **Retail (Almacenes SIMAN)**, and **Digital Advertising (Hotels, online newspapers, online marketing, facebook ads and apps, mobile apps and digital installations)**. 
 
 ---
 
